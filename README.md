@@ -35,6 +35,7 @@ and keep looping until we get a final answer.
 
 ## Setup
 
+```
 Clone the repo and install dependencies:
 
 pip install openai python-dotenv rich
@@ -50,15 +51,19 @@ OPENAI_API_KEY=your-key-here
 Then run:
 
 python tools.py
+```
+
+
 
 ## Series
 
 This is part of an ongoing AI engineering series where we build up from 
 the foundations all the way to full multi-agent systems.
 
-Video 0 — Project setup (UV, venv, .env)
-Video 1 — Function calling (this video)
+Video 1 — Project setup (UV, venv, .env), Function calling (this video)
+
 Video 2 — Async OpenAI SDK (coming soon)
+
 Video 3 — Agent as a tool (coming soon)
 
 ## About
@@ -67,6 +72,7 @@ I'm Prashanna, an ML engineer and CS graduate student. I build AI systems
 and break down complex concepts into real working code. Subscribe on YouTube 
 for weekly AI engineering videos.
 
-YouTube: [your channel link]
-LinkedIn: [your linkedin]
-GitHub: [your github]
+* YouTube: https://www.youtube.com/@prashanna_raj
+
+* LinkedIn: https://www.linkedin.com/in/ra-prashanna/
+* GitHub: https://github.com/Prashanna-Raj-Pandit
